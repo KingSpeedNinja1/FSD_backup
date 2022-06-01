@@ -15,3 +15,11 @@ git push -u origin main
 git remote add origin https://github.com/KingSpeedNinja1/FSD_backup.git
 git branch -M main
 git push -u origin main
+
+
+
+
+-------
+git hello
+git checkout hello
+
