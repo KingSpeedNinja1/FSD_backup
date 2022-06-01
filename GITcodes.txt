@@ -22,4 +22,5 @@ git push -u origin main
 -------
 git hello
 git checkout hello
+git branch -M hello
 add the files
